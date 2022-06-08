@@ -7,10 +7,10 @@ I'm Supra and I love programming and learning new things about computers! Welcom
   <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="35px" height="35px" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://image.flaticon.com/icons/png/512/888/888859.png" width="45px" height="45px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="45px" height="45px" />
 </a>
 <a href="https://www.w3schools.com/css/">
-  <img src="https://image.flaticon.com/icons/png/512/888/888847.png" width="45px" height="45px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="35px" height="45px" />
 </a>
 <a href="https://www.python.org">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="36px" height="36px" />
@@ -25,6 +25,9 @@ I'm Supra and I love programming and learning new things about computers! Welcom
 </a>
 <a href="https://docs.microsoft.com/en-gb/dotnet/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="36px" height="36px" />
+</a>
+<a href="https://www.java.com/en/">
+  <img src="https://dev.java/assets/images/java-logo-vert-blk.png" width="36px" height="36px" />
 </a>
 
 🔧 Tools I use/used: <br/>
