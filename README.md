@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Supra and I love programming and learning new things about computers! Welcome to my Github :)
+I'm Patryk and I love programming and learning new things about computers! Welcome to my Github :)
 
 🤹 I’m currently able to program in / use: <br/>
 <a href="https://www.javascript.com">
@@ -61,4 +61,4 @@ I'm Supra and I love programming and learning new things about computers! Welcom
 </a> <br/> <br/>
 
 📫 Contact me via:<br/>
-<img src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="16px" height="16px" /> Supra#6561
+<img src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" width="16px" height="16px" /> supraaxdd
